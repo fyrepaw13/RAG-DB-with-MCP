@@ -47,3 +47,5 @@ CREATE TABLE writeups (
     embedding vector(384)
 );
 ```
+
+If you are using OpenAI's text-embedding-3-small, you should create vector(1536)
