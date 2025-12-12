@@ -1,3 +1,5 @@
+⚡ This project is based on / modified from: https://gist.github.com/Joel-hanson/132138e0a6720013dca669546fe98777
+
 ## Step 1: Building a Custom PostgreSQL Image with pgvector
 
 1. Go to the directory of your Dockerfile
