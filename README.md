@@ -49,3 +49,7 @@ CREATE TABLE writeups (
 ```
 
 If you are using OpenAI's text-embedding-3-small, you should create vector(1536)
+
+## Step 4: Ingest your Writeups
+
+Run `python3 ingestor.py` to add it into the db
